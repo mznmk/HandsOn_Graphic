@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  # [ service "three" ]
+  three:
+    build: .
+    tty: true
+    ports:
+      - 3000:3000
+    volumes:
+      - ../:/projects
