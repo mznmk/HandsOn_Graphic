@@ -1,0 +1,14 @@
+{
+  "name": "threejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "lil-gui": "^0.16.1",
+    "lite-server": "^2.6.1",
+    "three": "0.140"
+  }
+}
