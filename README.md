@@ -1,6 +1,6 @@
 # HandsOn Graphic
 
-いろんなハンズオンに取り組みながら、グラフィックを学習しようという試みです。  
+いろんなハンズオンに取り組みながら、グラフィックについて学習しようという試みです。  
 
 
 ## SC ThreeJS Beginner
@@ -9,6 +9,7 @@ Udemy
 【Three.js入門】モダンな3Dフロントエンド技術を習得して周りのエンジニアと差をつけよう！  
 https://www.udemy.com/course/threejs-beginner/  
 ✅ 受講完了 0回  
+Sec01〜Sec04 済  
 ✓ 受講途中…  
 
 
