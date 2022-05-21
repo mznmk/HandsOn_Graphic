@@ -137,6 +137,6 @@ import GUI from "./node_modules/lil-gui/dist/lil-gui.esm.js";
 
 ### Section 16: 【追加教材】Three.js で使う数学的知識
 
-
+[Section 16](./sec16)  
 
 
