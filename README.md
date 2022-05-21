@@ -9,7 +9,7 @@ Udemy
 【Three.js入門】モダンな3Dフロントエンド技術を習得して周りのエンジニアと差をつけよう！  
 https://www.udemy.com/course/threejs-beginner/  
 ✅ 受講完了 0回  
-Sec01〜Sec04 済  
+Sec01〜Sec07 済  
 ✓ 受講途中…  
 
 
